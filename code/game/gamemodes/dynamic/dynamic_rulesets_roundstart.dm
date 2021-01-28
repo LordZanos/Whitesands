@@ -11,7 +11,7 @@
 	antag_flag = ROLE_TRAITOR
 	antag_datum = /datum/antagonist/traitor/
 	minimum_required_age = 0
-	protected_roles = list("Prisoner", "Security Officer", "Warden", "Detective", "Head of Security", "Captain", "Research Director", "Chief Medical Officer", "Chief Engineer", "Head of Personnel")
+	protected_roles = list("Prisoner", "Security Officer", "Warden", "Detective", "Head of Security", "Captain", "Research Director", "Chief Medical Officer", "Chief Engineer", "Head of Personnel", "SolGov Representative")
 	restricted_roles = list("Cyborg")
 	required_candidates = 1
 	weight = 5
